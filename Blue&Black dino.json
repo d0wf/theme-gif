@@ -133,7 +133,7 @@
     "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Semibold.ttf?raw=1"
   },
   "background": {
-    "blur": 2.0,
+    "blur": 1.0,
     "url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNsY3oycDVncTJpM2E1eTI0azAxbmQ0NndwdDkwZ2JncHZqdHAwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PsFEJoXzP4RPJ5ffTo/giphy.gif",
     "OPACITY": 0
   },
